@@ -4,6 +4,7 @@ Rencana depan
   * ES6
   * fRAMEWORK Javascript
    ^ Vue
+   ^ React
 - Fundamental Data Structure
 - PHP Framework
 - interview
