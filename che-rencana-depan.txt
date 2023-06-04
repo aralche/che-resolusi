@@ -3,7 +3,9 @@ Rencana depan
 - Javascript
   * ES6
   * fRAMEWORK Javascript
-- Fundamental Data Structure
+    ^ Angular
+    ^ React
 - PHP Framework
+  ^ Laravel
 - interview
 - Blog
